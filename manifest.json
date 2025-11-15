@@ -1,0 +1,24 @@
+{
+  "name": "أذكاري - Azkari",
+  "short_name": "أذكاري",
+  "description": "تطبيق إسلامي شامل لأذكار الصباح والمساء، مواقيت الصلاة مع أذان، القرآن الكريم، أحاديث نبوية، ومساعد ذكاء اصطناعي متخصص في الإجابة على الأسئلة الدينية.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#0d9488",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
